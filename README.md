@@ -13,7 +13,7 @@ Install dependencies with:
 Start server with ```python server.py```
 
 1. Import data on [localhost:5000/import](http://localhost:5000/import)
-1. View results on [localhost:5000/view](http://localhost:5000/view)
+1. Compare your time with the other on [localhost:5000/](http://localhost:5000/)
 
 ### Deployment
 To deploy to pythonanywhere
